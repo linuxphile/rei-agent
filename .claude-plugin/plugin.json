@@ -1,0 +1,19 @@
+{
+  "name": "rei",
+  "version": "1.0.0",
+  "description": "Real estate investment analysis agent — underwrite deals, research markets, model financing, track portfolios, and generate offers for residential and small commercial (1-50 unit) properties.",
+  "author": {
+    "name": "linuxphile",
+    "url": "https://github.com/linuxphile"
+  },
+  "keywords": [
+    "real-estate",
+    "investment",
+    "underwriting",
+    "deal-analysis",
+    "portfolio",
+    "cash-flow",
+    "BRRRR",
+    "rental-property"
+  ]
+}

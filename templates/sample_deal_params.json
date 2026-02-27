@@ -1,0 +1,44 @@
+{
+  "purchase_price": 285000,
+  "down_payment_pct": 0.25,
+  "closing_costs": 8550,
+  "rehab_budget": 0,
+  "holding_period_years": 5,
+  "property": {
+    "address": "123 Example Ave, Minneapolis, MN 55408",
+    "property_type": "duplex",
+    "units": 2,
+    "sqft": 2200,
+    "year_built": 1962,
+    "condition": 6
+  },
+  "income": {
+    "unit_rents": [1350, 1250],
+    "other_income": 50
+  },
+  "expenses": {
+    "taxes": 320,
+    "insurance": 155,
+    "hoa": 0,
+    "management_pct": 0.08,
+    "management_flat": null,
+    "maintenance_pct": 0.06,
+    "capex_pct": 0.06,
+    "vacancy_pct": 0.08,
+    "credit_loss_pct": 0.02,
+    "utilities": 0,
+    "landscaping": 100,
+    "pest_control": 50,
+    "legal_accounting": 750,
+    "advertising": 500,
+    "misc_pct": 0.02
+  },
+  "financing": {
+    "loan_amount": 213750,
+    "interest_rate": 0.0675,
+    "term_months": 360,
+    "loan_type": "conventional",
+    "points": 0,
+    "closing_costs": 3500
+  }
+}

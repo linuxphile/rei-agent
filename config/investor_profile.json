@@ -1,0 +1,83 @@
+{
+  "investor_name": "",
+  "entity_name": "",
+  "contact": {
+    "email": "",
+    "phone": ""
+  },
+  "experience_level": "beginner",
+  "investment_goals": {
+    "primary_strategy": "buy_and_hold",
+    "secondary_strategies": [],
+    "timeline": "long_term",
+    "target_portfolio_size": {
+      "units": 20,
+      "value": 2000000
+    },
+    "primary_objective": "cash_flow",
+    "notes": ""
+  },
+  "financial_position": {
+    "available_capital": 0,
+    "annual_income": 0,
+    "existing_properties": 0,
+    "existing_debt": 0,
+    "credit_score_range": "740+",
+    "reserves_available": 0
+  },
+  "return_targets": {
+    "min_cash_on_cash": 8.0,
+    "min_cap_rate": 6.0,
+    "min_irr": 12.0,
+    "min_per_door_monthly": 200,
+    "min_dscr": 1.25,
+    "target_equity_multiple": 2.0
+  },
+  "risk_tolerance": {
+    "level": "moderate",
+    "max_ltv": 80,
+    "max_single_property_pct": 40,
+    "max_single_market_pct": 60,
+    "comfortable_with_rehab": true,
+    "comfortable_with_creative_financing": false,
+    "comfortable_with_self_management": false
+  },
+  "target_markets": {
+    "primary": [],
+    "secondary": [],
+    "excluded": []
+  },
+  "target_properties": {
+    "types": ["duplex", "triplex", "quad"],
+    "min_units": 2,
+    "max_units": 8,
+    "min_year_built": 1950,
+    "condition_preference": "value_add",
+    "max_purchase_price": 500000
+  },
+  "financing_preferences": {
+    "preferred_loan_types": ["conventional", "dscr"],
+    "max_acceptable_rate": 8.0,
+    "prefers_fixed_rate": true,
+    "has_va_eligibility": false,
+    "has_fha_eligibility": true,
+    "existing_lender_relationships": []
+  },
+  "management_preferences": {
+    "self_manage": false,
+    "property_manager": true,
+    "max_management_fee_pct": 10,
+    "max_distance_miles": 60
+  },
+  "tax_situation": {
+    "filing_status": "",
+    "marginal_tax_bracket": "",
+    "state_income_tax": true,
+    "interested_in_cost_segregation": false,
+    "interested_in_1031": false,
+    "has_real_estate_professional_status": false
+  },
+  "active_assumption_profile": "conservative",
+  "created_date": "",
+  "last_updated": ""
+}
