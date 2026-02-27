@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "rei-agent",
+  "description": "Real estate investment analysis tools for Claude Code",
+  "owner": {
+    "name": "linuxphile",
+    "url": "https://github.com/linuxphile"
+  },
+  "plugins": [
+    {
+      "name": "rei",
+      "description": "Real estate investment analysis agent — underwrite deals, research markets, model financing, track portfolios, and generate offers for residential and small commercial (1-50 unit) properties.",
+      "version": "1.0.0",
+      "author": {
+        "name": "linuxphile",
+        "url": "https://github.com/linuxphile"
+      },
+      "source": "./plugins/rei",
+      "category": "productivity",
+      "homepage": "https://github.com/linuxphile/rei-agent"
+    }
+  ]
+}
